@@ -3,7 +3,7 @@
 <head>
 <body>
     <h1>Halaman About</h1>
-    <p>Dibuat oleh V2</p>
+    <p>V2</p>
 </body>
 </head>
 </html>
