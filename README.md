@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
-</head>
 <body>
     <h1>Halaman Home</h1>
-    <p>Dibuat oleh V1</p>
+    <p>V1</p>
 </body>
+</head>
 </html>
