@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Contact</title>
-</head>
 <body>
     <h1>Halaman Contact</h1>
-    <p>Dibuat oleh V3</p>
+    <p>V3</p>
 </body>
+</head>
 </html>
