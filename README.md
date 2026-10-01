@@ -14,10 +14,10 @@ Berikut adalah peta navigasi dan ringkasan dari setiap versi branch yang aktif d
 
 | Branch | Nama Fitur / Halaman | Kontributor | Deskripsi Singkat |
 | :---: | :--- | :---: | :--- |
-| ![v1]([https://img.shields.io/badge/v1-blue?style=flat-square]) | **Halaman Home** | 👨‍💻 Pieter | Berisi pengembangan awal tampilan halaman utama (*home page*) versi pertama proyek. |
-| ![v2]([https://img.shields.io/badge/v1-black?style=flat-square]) | **Halaman About** | 👨‍💻 Farhan | Berisi halaman informasi profil dan latar belakang tim pengembang (*about page*). |
-| ![v3]([https://img.shields.io/badge/v1-brown?style=flat-square]) | **Halaman Contact** | 👨‍💻 Aidil | Menyediakan fitur halaman kontak interaktif bagi pengguna untuk terhubung. |
-| ![v4]([https://img.shields.io/badge/v1-beige?style=flat-square]) | **Task Merge** | 👨‍💻 Yondi | Berisi integrasi dan penggabungan tugas serta fitur tahap lanjut dari versi sebelumnya. |
+| ![v1](https://img.shields.io/badge/v1-blue?style=flat-square) | **Halaman Home** | 👨‍💻 Pieter | Berisi pengembangan awal tampilan halaman utama (*home page*) versi pertama proyek. |
+| ![v2](https://img.shields.io/badge/v2-green?style=flat-square) | **Halaman About** | 👨‍💻 Farhan | Berisi halaman informasi profil dan latar belakang tim pengembang (*about page*). |
+| ![v3](https://img.shields.io/badge/v3-orange?style=flat-square) | **Halaman Contact** | 👨‍💻 Aidil | Menyediakan fitur halaman kontak interaktif bagi pengguna untuk terhubung. |
+| ![v4](https://img.shields.io/badge/v4-purple?style=flat-square) | **Task Merge** | 👨‍💻 Yondi | Berisi integrasi dan penggabungan tugas serta fitur tahap lanjut dari versi sebelumnya. |
 
 ---
 
