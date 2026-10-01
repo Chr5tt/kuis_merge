@@ -1,24 +1,29 @@
+<div align="center">
+
 # 🚀 Project Overview & Branch Directory
 
-Selamat datang di repositori utama proyek kolaborasi kami! Repositori ini dikelola secara terstruktur dengan membagi fungsionalitas dan fitur ke dalam beberapa branch berbeda (`v1` hingga `v4`). 
+*Repositori kolaborasi tim untuk pengembangan aplikasi secara modular.*
 
-Berikut adalah peta navigasi dan ringkasan dari setiap versi branch yang tersedia dalam proyek ini:
+</div>
 
 ---
 
 ## 📂 Daftar Branch & Fitur
 
+Berikut adalah peta navigasi dan ringkasan dari setiap versi branch yang aktif dalam proyek ini:
+
 | Branch | Nama Fitur / Halaman | Kontributor | Deskripsi Singkat |
-| :---: | :--- | :--- | :--- |
-| **`v1`** | **Halaman Home**[cite: 2] | Pieter[cite: 2] | Berisi pengembangan awal tampilan halaman utama (*home page*) versi pertama proyek[cite: 2]. |
-| **`v2`** | **Halaman About**[cite: 3] | Farhan[cite: 3] | Berisi halaman informasi profil/tentang aplikasi atau tim pengembang (*about page*)[cite: 3]. |
-| **`v3`** | **Halaman Contact**[cite: 4] | Aidil[cite: 4] | Menyediakan fitur halaman kontak bagi pengguna untuk terhubung dengan pengembang[cite: 4]. |
-| **`v4`** | **Task Merge**[cite: 5] | Yondi[cite: 5] | Berisi integrasi dan penggabungan tugas/fitur tahap lanjut dari pengembangan versi sebelumnya[cite: 5]. |
+| :---: | :--- | :---: | :--- |
+| ![v1](https://img.shields.io/badge/v1-blue?style=flat-square) | **Halaman Home** | 👨‍💻 Pieter | Berisi pengembangan awal tampilan halaman utama (*home page*) versi pertama proyek. |
+| ![v2](https://img.shields.io/badge/v2-green?style=flat-square) | **Halaman About** | 👨‍💻 Farhan | Berisi halaman informasi profil dan latar belakang tim pengembang (*about page*). |
+| ![v3](https://img.shields.io/badge/v3-orange?style=flat-square) | **Halaman Contact** | 👨‍💻 Aidil | Menyediakan fitur halaman kontak interaktif bagi pengguna untuk terhubung. |
+| ![v4](https://img.shields.io/badge/v4-purple?style=flat-square) | **Task Merge** | 👨‍💻 Yondi | Berisi integrasi dan penggabungan tugas serta fitur tahap lanjut dari versi sebelumnya. |
 
 ---
 
-## 🛠️ Navigasi Cepat
-Anda dapat berpindah antar branch melalui tombol pemilih branch (*branch selector*) di pojok kiri atas GitHub, atau menggunakan perintah Git berikut di terminal Anda:
+## 🛠️ Navigasi & Perintah Git Cepat
+
+Anda dapat berpindah antar branch menggunakan tombol pemilih (*branch selector*) di pojok kiri atas GitHub, atau jalankan perintah berikut di terminal Anda:
 
 ```bash
 # Berpindah ke branch V1 (Home)
